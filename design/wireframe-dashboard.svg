@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="740" viewBox="0 0 1120 740" font-family="Arial, sans-serif" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round" role="img" aria-label="Wireframe do dashboard">
+  <title>Wireframe do dashboard</title>
+  <rect x="0" y="0" width="1120" height="740" rx="0" fill="#ffffff" stroke="none" />
+  <text x="38" y="48" font-size="32" font-weight="bold" text-anchor="start" fill="#172534">Dashboard</text>
+  <text x="39" y="77" font-size="16" font-weight="normal" text-anchor="start" fill="#46586a">Wireframe do operador | RiaTour</text>
+  <rect x="38" y="104" width="1044" height="46" rx="4" fill="#25364a" stroke="#25364a" />
+  <text x="54" y="133" font-size="18" font-weight="bold" text-anchor="start" fill="#ffffff">RiaTour</text>
+  <rect x="148" y="112" width="101" height="30" rx="3" fill="#ffffff" stroke="none" />
+  <text x="198" y="133" font-size="15" font-weight="bold" text-anchor="middle" fill="#172534">Início</text>
+  <text x="308" y="133" font-size="15" font-weight="normal" text-anchor="middle" fill="#ffffff">Barcos</text>
+  <text x="418" y="133" font-size="15" font-weight="normal" text-anchor="middle" fill="#ffffff">Percursos</text>
+  <text x="528" y="133" font-size="15" font-weight="normal" text-anchor="middle" fill="#ffffff">Passeios</text>
+  <text x="638" y="133" font-size="15" font-weight="normal" text-anchor="middle" fill="#ffffff">Clientes</text>
+  <text x="748" y="133" font-size="15" font-weight="normal" text-anchor="middle" fill="#ffffff">Reservas</text>
+  <text x="38" y="194" font-size="22" font-weight="bold" text-anchor="start" fill="#172534">Áreas de gestão</text>
+  <rect x="38" y="218" width="336" height="120" rx="5" fill="#edf1f5" stroke="#526172" />
+  <text x="53" y="249" font-size="20" font-weight="bold" text-anchor="start" fill="#172534">Barcos</text>
+  <text x="53" y="275" font-size="15" font-weight="normal" text-anchor="start" fill="#172534">Capacidade e disponibilidade</text>
+  <rect x="53" y="291" width="130" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="118" y="311" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Abrir barcos</text>
+  <rect x="392" y="218" width="336" height="120" rx="5" fill="#edf1f5" stroke="#526172" />
+  <text x="407" y="249" font-size="20" font-weight="bold" text-anchor="start" fill="#172534">Percursos</text>
+  <text x="407" y="275" font-size="15" font-weight="normal" text-anchor="start" fill="#172534">Descrição, duração e preço</text>
+  <rect x="407" y="291" width="130" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="472" y="311" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Abrir percursos</text>
+  <rect x="746" y="218" width="336" height="120" rx="5" fill="#edf1f5" stroke="#526172" />
+  <text x="761" y="249" font-size="20" font-weight="bold" text-anchor="start" fill="#172534">Passeios</text>
+  <text x="761" y="275" font-size="15" font-weight="normal" text-anchor="start" fill="#172534">Horários, barcos e percursos</text>
+  <rect x="761" y="291" width="130" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="826" y="311" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Abrir passeios</text>
+  <rect x="38" y="363" width="336" height="120" rx="5" fill="#edf1f5" stroke="#526172" />
+  <text x="53" y="394" font-size="20" font-weight="bold" text-anchor="start" fill="#172534">Clientes</text>
+  <text x="53" y="420" font-size="15" font-weight="normal" text-anchor="start" fill="#172534">Identificação e contactos</text>
+  <rect x="53" y="436" width="130" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="118" y="456" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Abrir clientes</text>
+  <rect x="392" y="363" width="336" height="120" rx="5" fill="#edf1f5" stroke="#526172" />
+  <text x="407" y="394" font-size="20" font-weight="bold" text-anchor="start" fill="#172534">Reservas</text>
+  <text x="407" y="420" font-size="15" font-weight="normal" text-anchor="start" fill="#172534">Passageiros, lotação e estado</text>
+  <rect x="407" y="436" width="130" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="472" y="456" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Abrir reservas</text>
+</svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="740" viewBox="0 0 1120 740" font-family="Arial, sans-serif" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round" role="img" aria-label="Gestão de clientes">
+  <title>Gestão de clientes</title>
+  <rect x="0" y="0" width="1120" height="740" rx="0" fill="#ffffff" stroke="none" />
+  <text x="38" y="48" font-size="32" font-weight="bold" text-anchor="start" fill="#172534">Gestão de clientes</text>
+  <text x="39" y="77" font-size="16" font-weight="normal" text-anchor="start" fill="#46586a">Wireframe do operador | RiaTour</text>
+  <rect x="38" y="104" width="1044" height="46" rx="4" fill="#25364a" stroke="#25364a" />
+  <text x="54" y="133" font-size="18" font-weight="bold" text-anchor="start" fill="#ffffff">RiaTour</text>
+  <text x="198" y="133" font-size="15" font-weight="normal" text-anchor="middle" fill="#ffffff">Início</text>
+  <text x="308" y="133" font-size="15" font-weight="normal" text-anchor="middle" fill="#ffffff">Barcos</text>
+  <text x="418" y="133" font-size="15" font-weight="normal" text-anchor="middle" fill="#ffffff">Percursos</text>
+  <text x="528" y="133" font-size="15" font-weight="normal" text-anchor="middle" fill="#ffffff">Passeios</text>
+  <rect x="588" y="112" width="101" height="30" rx="3" fill="#ffffff" stroke="none" />
+  <text x="638" y="133" font-size="15" font-weight="bold" text-anchor="middle" fill="#172534">Clientes</text>
+  <text x="748" y="133" font-size="15" font-weight="normal" text-anchor="middle" fill="#ffffff">Reservas</text>
+  <text x="38" y="182" font-size="17" font-weight="bold" text-anchor="start" fill="#172534">Pesquisa</text>
+  <text x="38" y="207" font-size="14" font-weight="bold" text-anchor="start" fill="#172534">Nome</text>
+  <rect x="38" y="215" width="156" height="30" rx="3" fill="#ffffff" stroke="#526172" />
+  <text x="47" y="235" font-size="14" font-weight="normal" text-anchor="start" fill="#46586a">Pesquisar…</text>
+  <text x="208" y="207" font-size="14" font-weight="bold" text-anchor="start" fill="#172534">Email</text>
+  <rect x="208" y="215" width="156" height="30" rx="3" fill="#ffffff" stroke="#526172" />
+  <text x="217" y="235" font-size="14" font-weight="normal" text-anchor="start" fill="#46586a">Todos</text>
+  <rect x="383" y="215" width="88" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="427" y="235" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Pesquisar</text>
+  <rect x="480" y="215" width="71" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="515.5" y="235" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Limpar</text>
+  <rect x="971" y="215" width="111" height="30" rx="4" fill="#25364a" stroke="#526172" />
+  <text x="1026.5" y="235" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">Criar</text>
+  <rect x="38" y="267" width="1044" height="124" rx="4" fill="#ffffff" stroke="#526172" />
+  <rect x="38" y="267" width="1044" height="34" rx="4" fill="#edf1f5" stroke="#526172" />
+  <polyline points="38,346 1082,346" fill="none" stroke="#526172" />
+  <text x="46" y="289" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">ID</text>
+  <text x="46" y="329" font-size="13" font-weight="normal" text-anchor="start" fill="#172534">1</text>
+  <text x="46" y="374" font-size="13" font-weight="normal" text-anchor="start" fill="#172534">2</text>
+  <polyline points="98,268 98,391" fill="none" stroke="#526172" />
+  <text x="106" y="289" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">Nome</text>
+  <text x="106" y="329" font-size="13" font-weight="normal" text-anchor="start" fill="#172534">Ana Silva</text>
+  <text x="106" y="374" font-size="13" font-weight="normal" text-anchor="start" fill="#172534">João Costa</text>
+  <polyline points="283,268 283,391" fill="none" stroke="#526172" />
+  <text x="291" y="289" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">Email</text>
+  <text x="291" y="329" font-size="13" font-weight="normal" text-anchor="start" fill="#172534">ana@example.test</text>
+  <text x="291" y="374" font-size="13" font-weight="normal" text-anchor="start" fill="#172534">joao@example.test</text>
+  <polyline points="548,268 548,391" fill="none" stroke="#526172" />
+  <text x="556" y="289" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">Telefone</text>
+  <text x="556" y="329" font-size="13" font-weight="normal" text-anchor="start" fill="#172534">+351 000 000 001</text>
+  <text x="556" y="374" font-size="13" font-weight="normal" text-anchor="start" fill="#172534">+351 000 000 002</text>
+  <polyline points="758,268 758,391" fill="none" stroke="#526172" />
+  <text x="766" y="289" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">Ações</text>
+  <rect x="765" y="308" width="49" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="789.5" y="328" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Ver</text>
+  <rect x="820" y="308" width="60" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="850" y="328" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Editar</text>
+  <rect x="886" y="308" width="71" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="921.5" y="328" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Eliminar</text>
+  <rect x="765" y="353" width="49" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="789.5" y="373" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Ver</text>
+  <rect x="820" y="353" width="60" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="850" y="373" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Editar</text>
+  <rect x="886" y="353" width="71" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="921.5" y="373" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Eliminar</text>
+  <rect x="38" y="418" width="642" height="288" rx="5" fill="#ffffff" stroke="#526172" />
+  <text x="53" y="448" font-size="19" font-weight="bold" text-anchor="start" fill="#172534">Criar / editar cliente</text>
+  <text x="53" y="475" font-size="14" font-weight="bold" text-anchor="start" fill="#172534">Nome</text>
+  <rect x="53" y="483" width="290" height="30" rx="3" fill="#ffffff" stroke="#526172" />
+  <text x="62" y="503" font-size="14" font-weight="normal" text-anchor="start" fill="#46586a">Ana Silva</text>
+  <text x="362" y="475" font-size="14" font-weight="bold" text-anchor="start" fill="#172534">Email</text>
+  <rect x="362" y="483" width="290" height="30" rx="3" fill="#ffffff" stroke="#526172" />
+  <text x="371" y="503" font-size="14" font-weight="normal" text-anchor="start" fill="#46586a">ana@example.test</text>
+  <text x="53" y="531" font-size="14" font-weight="bold" text-anchor="start" fill="#172534">Telefone</text>
+  <rect x="53" y="539" width="290" height="30" rx="3" fill="#ffffff" stroke="#526172" />
+  <text x="62" y="559" font-size="14" font-weight="normal" text-anchor="start" fill="#46586a">+351 000 000 001</text>
+  <rect x="53" y="658" width="100" height="30" rx="4" fill="#25364a" stroke="#526172" />
+  <text x="103" y="678" font-size="14" font-weight="bold" text-anchor="middle" fill="#ffffff">Guardar</text>
+  <rect x="163" y="658" width="100" height="30" rx="4" fill="#ffffff" stroke="#526172" />
+  <text x="213" y="678" font-size="14" font-weight="bold" text-anchor="middle" fill="#172534">Cancelar</text>
+  <rect x="704" y="418" width="378" height="288" rx="5" fill="#ffffff" stroke="#526172" />
+  <text x="719" y="448" font-size="18" font-weight="bold" text-anchor="start" fill="#172534">Mensagens de feedback</text>
+  <rect x="719" y="463" width="348" height="54" rx="3" fill="#edf1f5" stroke="none" />
+  <text x="730" y="483" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">Sucesso</text>
+  <text x="730" y="503" font-size="13" font-weight="normal" text-anchor="start" fill="#172534">Cliente guardado.</text>
+  <rect x="719" y="528" width="348" height="54" rx="3" fill="#edf1f5" stroke="none" />
+  <text x="730" y="548" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">Erro</text>
+  <text x="730" y="568" font-size="13" font-weight="normal" text-anchor="start" fill="#172534">Preenche os campos obrigatórios.</text>
+  <rect x="719" y="593" width="348" height="54" rx="3" fill="#edf1f5" stroke="none" />
+  <text x="730" y="613" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">Confirmação</text>
+  <text x="730" y="633" font-size="13" font-weight="normal" text-anchor="start" fill="#172534">Eliminar este registo?</text>
+</svg>

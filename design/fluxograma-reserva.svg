@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="740" viewBox="0 0 1120 740" font-family="Arial, sans-serif" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round" role="img" aria-label="Fluxograma de criação de uma reserva">
+  <title>Fluxograma de criação de uma reserva</title>
+  <rect x="0" y="0" width="1120" height="740" rx="0" fill="#ffffff" stroke="none" />
+  <text x="38" y="48" font-size="32" font-weight="bold" text-anchor="start" fill="#172534">Criação de uma reserva</text>
+  <text x="39" y="77" font-size="16" font-weight="normal" text-anchor="start" fill="#46586a">RiaTour | Módulo 2</text>
+  <polyline points="460,137 460,153" fill="none" stroke="#25364a" />
+  <polygon points="460,153 455.76436700645957,145.0590042725089 464.23563299354043,145.0590042725089" fill="#25364a" stroke="#25364a" />
+  <polyline points="460,191 460,207" fill="none" stroke="#25364a" />
+  <polygon points="460,207 455.76436700645957,199.0590042725089 464.23563299354043,199.0590042725089" fill="#25364a" stroke="#25364a" />
+  <polyline points="460,245 460,261" fill="none" stroke="#25364a" />
+  <polygon points="460,261 455.76436700645957,253.0590042725089 464.23563299354043,253.0590042725089" fill="#25364a" stroke="#25364a" />
+  <polyline points="460,299 460,315" fill="none" stroke="#25364a" />
+  <polygon points="460,315 455.76436700645957,307.0590042725089 464.23563299354043,307.0590042725089" fill="#25364a" stroke="#25364a" />
+  <polyline points="460,381 460,399" fill="none" stroke="#25364a" />
+  <polygon points="460,399 455.76436700645957,391.0590042725089 464.23563299354043,391.0590042725089" fill="#25364a" stroke="#25364a" />
+  <polyline points="460,437 460,451" fill="none" stroke="#25364a" />
+  <polygon points="460,451 455.76436700645957,443.0590042725089 464.23563299354043,443.0590042725089" fill="#25364a" stroke="#25364a" />
+  <polyline points="460,517 460,538" fill="none" stroke="#25364a" />
+  <polygon points="460,538 455.76436700645957,530.0590042725089 464.23563299354043,530.0590042725089" fill="#25364a" stroke="#25364a" />
+  <polyline points="460,576 460,597" fill="none" stroke="#25364a" />
+  <polygon points="460,597 455.76436700645957,589.0590042725089 464.23563299354043,589.0590042725089" fill="#25364a" stroke="#25364a" />
+  <polyline points="460,635 460,659" fill="none" stroke="#25364a" />
+  <polygon points="460,659 455.76436700645957,651.0590042725089 464.23563299354043,651.0590042725089" fill="#25364a" stroke="#25364a" />
+  <polyline points="626,348 800,348 800,365" fill="none" stroke="#25364a" />
+  <polygon points="800,365 795.7643670064596,357.0590042725089 804.2356329935404,357.0590042725089" fill="#25364a" stroke="#25364a" />
+  <polyline points="626,484 800,484 800,501" fill="none" stroke="#25364a" />
+  <polygon points="800,501 795.7643670064596,493.0590042725089 804.2356329935404,493.0590042725089" fill="#25364a" stroke="#25364a" />
+  <polyline points="795,417 795,438 1001,438 1001,678 537,678" fill="none" stroke="#25364a" />
+  <polygon points="537,678 544.9409957274911,673.7643670064596 544.9409957274911,682.2356329935404" fill="#25364a" stroke="#25364a" />
+  <polyline points="795,553 795,572 1001,572" fill="none" stroke="#25364a" />
+  <polygon points="1001,572 993.0590042725089,576.2356329935404 993.0590042725089,567.7643670064596" fill="#25364a" stroke="#25364a" />
+  <text x="474" y="395" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">Sim</text>
+  <text x="475" y="535" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">Sim</text>
+  <text x="688" y="340" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">Não</text>
+  <text x="688" y="476" font-size="13" font-weight="bold" text-anchor="start" fill="#172534">Não</text>
+  <rect x="394" y="99" width="132" height="38" rx="18" fill="#edf1f5" stroke="#526172" />
+  <text x="460" y="124" font-size="15" font-weight="bold" text-anchor="middle" fill="#172534">Início</text>
+  <rect x="300" y="153" width="320" height="38" rx="5" fill="#ffffff" stroke="#526172" />
+  <text x="460" y="178" font-size="15" font-weight="normal" text-anchor="middle" fill="#172534">Selecionar passeio</text>
+  <rect x="300" y="207" width="320" height="38" rx="5" fill="#ffffff" stroke="#526172" />
+  <text x="460" y="232" font-size="15" font-weight="normal" text-anchor="middle" fill="#172534">Selecionar ou inserir cliente</text>
+  <rect x="300" y="261" width="320" height="38" rx="5" fill="#ffffff" stroke="#526172" />
+  <text x="460" y="286" font-size="15" font-weight="normal" text-anchor="middle" fill="#172534">Introduzir número de passageiros</text>
+  <polygon points="460,315 626,348 460,381 294,348" fill="#edf1f5" stroke="#526172" />
+  <text x="460" y="354" font-size="15" font-weight="bold" text-anchor="middle" fill="#172534">Dados obrigatórios válidos?</text>
+  <rect x="301" y="399" width="318" height="38" rx="5" fill="#ffffff" stroke="#526172" />
+  <text x="460" y="424" font-size="15" font-weight="normal" text-anchor="middle" fill="#172534">Consultar lugares disponíveis</text>
+  <polygon points="460,451 626,484 460,517 294,484" fill="#edf1f5" stroke="#526172" />
+  <text x="460" y="480" font-size="15" font-weight="bold" text-anchor="middle" fill="#172534">Passeio disponível e</text>
+  <text x="460" y="500" font-size="15" font-weight="bold" text-anchor="middle" fill="#172534">lugares suficientes?</text>
+  <rect x="301" y="538" width="318" height="38" rx="5" fill="#ffffff" stroke="#526172" />
+  <text x="460" y="563" font-size="15" font-weight="normal" text-anchor="middle" fill="#172534">Registar reserva</text>
+  <rect x="301" y="597" width="318" height="38" rx="5" fill="#ffffff" stroke="#526172" />
+  <text x="460" y="622" font-size="15" font-weight="normal" text-anchor="middle" fill="#172534">Apresentar mensagem de sucesso</text>
+  <rect x="383" y="659" width="154" height="38" rx="18" fill="#edf1f5" stroke="#526172" />
+  <text x="460" y="684" font-size="15" font-weight="bold" text-anchor="middle" fill="#172534">Fim</text>
+  <rect x="661" y="365" width="278" height="52" rx="5" fill="#ffffff" stroke="#526172" />
+  <text x="800" y="387" font-size="15" font-weight="normal" text-anchor="middle" fill="#172534">Apresentar erro de validação</text>
+  <text x="800" y="407" font-size="15" font-weight="normal" text-anchor="middle" fill="#172534">e permitir corrigir os dados</text>
+  <rect x="661" y="501" width="278" height="52" rx="5" fill="#ffffff" stroke="#526172" />
+  <text x="800" y="523" font-size="15" font-weight="normal" text-anchor="middle" fill="#172534">Apresentar erro de disponibilidade</text>
+  <text x="800" y="543" font-size="15" font-weight="normal" text-anchor="middle" fill="#172534">e permitir escolher outro passeio</text>
+  <text x="38" y="723" font-size="15" font-weight="normal" text-anchor="start" fill="#172534">Lugares livres = capacidade do barco menos passageiros em reservas pendentes ou confirmadas.</text>
+</svg>
