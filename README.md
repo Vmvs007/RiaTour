@@ -42,3 +42,5 @@ As cinco áreas incluem criação, listagem, detalhe, edição, eliminação con
 Com os dados de exemplo, o dashboard deve mostrar Ria Serena em Barcos ativos. O menu deve abrir as cinco listagens, incluindo os nomes dos clientes, barcos e percursos associados. Se o servidor estiver parado ou a configuração estiver incorreta, a página apresenta uma mensagem de erro e responde com HTTP 503.
 
 Foram verificados a sintaxe dos 12 ficheiros PHP, o acesso HTTP às seis páginas e aos dois recursos Bootstrap, a consulta real do dashboard através de PDO e a resposta de indisponibilidade. O ensaio utilizou PHP 8.2.12 e MariaDB 10.4.32 numa base temporária com os dados do Módulo 1. A execução num servidor MySQL permanece por verificar.
+
+(Trabalhar mais com agentes - não deixar intimidar por ter de entregar evidências)
